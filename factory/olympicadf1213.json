@@ -1,0 +1,9 @@
+{
+	"name": "olympicadf1213",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "422a75bd-3eb7-4f54-96f4-d3a3e3de4adf",
+		"tenantId": "bdce0273-d9d2-4973-a10d-881882287e4a"
+	}
+}
